@@ -83,7 +83,7 @@ Recruiters face challenges manually reviewing thousands of resumes, leading to t
 📂 Stores shortlisted/not selected resumes in Excel
 
 📷 Screenshots
-### 📝 Signup & Login Interfaces
+### 📝 Signup & Login Interfaces:
 <div align="center">
   <img width="1256" height="538" alt="Image" src="https://github.com/user-attachments/assets/87c9aac2-a7b0-4236-84ca-3b04cde7a17e" />
 </div>
@@ -94,7 +94,7 @@ Recruiters face challenges manually reviewing thousands of resumes, leading to t
 </div>
 
 ### 📊 Result Page - Ranked Recommendations
-<div align="center">
+<div align="center"
   <img src="screenshots/result-page.png" width="700" alt="Result Page"/>
 </div>
 
