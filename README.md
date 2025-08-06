@@ -85,7 +85,7 @@ Recruiters face challenges manually reviewing thousands of resumes, leading to t
 📷 Screenshots
 ### 📝 Signup & Login Interfaces
 <div align="center">
-  <img src="screenshots/signup-login.png" width="700" alt="Signup and Login Screens"/>
+  <img width="1256" height="538" alt="Image" src="https://github.com/user-attachments/assets/87c9aac2-a7b0-4236-84ca-3b04cde7a17e" />
 </div>
 
 ### 🚀 Upload Interface (Job Description + Resumes)
