@@ -81,7 +81,7 @@ Recruiters face challenges manually reviewing thousands of resumes, leading to t
 💬 Real-time, personalized job recommendations
 
 📂 Stores shortlisted/not selected resumes in Excel
-<img width="574" height="527" alt="signup" src="https://github.com/user-attachments/assets/268d9df7-9af3-4b02-9f35-2a36b8dd4a0e" />
+
 
 
 
