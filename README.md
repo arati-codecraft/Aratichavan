@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarti Chavan</h1>
+<h1 align="center">Hi 👋, I'm Arati Chavan</h1>
 <h3 align="center">💻 Passionate IT Graduate | Data Science Enthusiast | JAVA Full Stack Learner</h3>
 
 
