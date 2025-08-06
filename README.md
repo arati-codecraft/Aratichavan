@@ -83,8 +83,10 @@ Recruiters face challenges manually reviewing thousands of resumes, leading to t
 📂 Stores shortlisted/not selected resumes in Excel
 
 📷 Screenshots
-### 📝 Signup & Login Interfaces:
-  <img width="1256" height="538" alt="Image" src="https://github.com/user-attachments/assets/87c9aac2-a7b0-4236-84ca-3b04cde7a17e" />
+📝 Signup & Login Interfaces:
+### <img width="1256" height="538" alt="Screenshot 2025-08-06 182441" src="https://github.com/user-attachments/assets/6a57616f-c900-4360-9788-12150a0b6926" />
+
+  
 
 ### 🚀 Upload Interface (Job Description + Resumes)
 <div align="center">
