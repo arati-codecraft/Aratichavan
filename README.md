@@ -82,34 +82,6 @@ Recruiters face challenges manually reviewing thousands of resumes, leading to t
 
 📂 Stores shortlisted/not selected resumes in Excel
 
-📷 Screenshots
-📝 Signup & Login Interfaces:
-### <img width="1256" height="538" alt="Screenshot 2025-08-06 182441" src="https://github.com/user-attachments/assets/6a57616f-c900-4360-9788-12150a0b6926" />
 
-  
-
-### 🚀 Upload Interface (Job Description + Resumes)
-<div align="center">
-  <img src="screenshots/upload-interface.png" width="600" alt="Upload Resumes & JD"/>
-</div>
-
-### 📊 Result Page - Ranked Recommendations
-<div align="center"
-  <img src="screenshots/result-page.png" width="700" alt="Result Page"/>
-</div>
-
-### 📁 Excel Output - Not Selected Candidates (with Skill Gaps)
-<div align="center">
-  <img src="screenshots/not-selected.png" width="700" alt="Not Selected Output"/>
-</div>
-
-### 🏆 Excel Output - Selected Top Candidates
-<div align="center">
-  <img src="screenshots/selected.png" width="700" alt="Selected Candidates Output"/>
-</div>
-
----
-
-
-
+<img width="1256" height="538" alt="Screenshot 2025-08-06 182441" src="https://github.com/user-attachments/assets/c00d49b0-45d3-45ad-8a72-8556cae92675" />
 
