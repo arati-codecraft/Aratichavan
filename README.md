@@ -71,6 +71,7 @@ Recruiters face challenges manually reviewing thousands of resumes, leading to t
 
 ```plaintext
 [ Resume Upload ] --> [ NLP Extraction ] --> [ Preprocessing ] --> [ TF-IDF + Cosine Similarity ] --> [ KNN Recommendations ] --> [ Output: Job & Skill Suggestions ]
+
 🧩 Features
 🔍 Resume keyword extraction (skills, education, experience)
 
@@ -81,7 +82,4 @@ Recruiters face challenges manually reviewing thousands of resumes, leading to t
 💬 Real-time, personalized job recommendations
 
 📂 Stores shortlisted/not selected resumes in Excel
-
-
-
 
