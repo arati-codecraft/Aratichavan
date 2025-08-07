@@ -84,9 +84,14 @@ Recruiters face challenges manually reviewing thousands of resumes, leading to t
 ## Results
 <img width="1256" height="538" alt="Screenshot 2025-08-06 182441" src="https://github.com/user-attachments/assets/b2c5fbd5-7638-4dab-a53f-58c6d8da764a" />
 
+
 <img width="884" height="738" alt="Screenshot 2025-08-06 182807" src="https://github.com/user-attachments/assets/789328dc-1e1f-4487-94a4-a692e838760e" />
+
 
 
 <img width="1280" height="711" alt="Screenshot 2025-08-06 182848" src="https://github.com/user-attachments/assets/a738b7c6-89fc-4d6b-bd2b-50792da74d9f" />
 
+<img width="1305" height="749" alt="Screenshot 2025-08-06 182955" src="https://github.com/user-attachments/assets/f0be3787-8e70-4543-a5d5-7a130a4ffe47" />
+
+<img width="1293" height="711" alt="Screenshot 2025-08-06 182941" src="https://github.com/user-attachments/assets/f6a53968-6b12-4bec-adcb-5a589305d923" />
 
